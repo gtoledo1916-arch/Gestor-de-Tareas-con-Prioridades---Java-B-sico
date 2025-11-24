@@ -35,7 +35,7 @@ public class Main {
                } else {
                    System.out.println("Prioridad invalido");
                }
-               break;
+                break;
             case 2:
                 System.out.println("Funcionalidad aún no implementada.");
                 break;
