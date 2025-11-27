@@ -70,6 +70,5 @@ public class Main {
 
         return totalPrioridad;
     }
-
 }
 
