@@ -1,5 +1,6 @@
 package poo.play;
 
+// Clases abstactas
 public abstract class Actividad {
     private  String nombre;
 
