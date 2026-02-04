@@ -1,3 +1,6 @@
+Programación Orientada a Objetos
+
+
 Aplicación de consola en Java para gestionar tareas con sistema de prioridades. 
 Proyecto educativo que implementa conceptos fundamentales como entrada/salida 
 con Scanner, estructuras condicionales (if-else), operadores lógicos y 
